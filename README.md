@@ -1,9 +1,5 @@
 ### hey, i'm maddie 🍜
 
-I'm a secondary student who's interested in software developement. 
+i'm a secondary student who's interested in software developement. 
 
-Right now I'm trying to learn ASP.NET
-
-Wish me luck
-
-✌️
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madness118&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
