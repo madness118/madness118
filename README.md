@@ -13,4 +13,5 @@ i'm a secondary student who's interested in software developement.
 
 <hr>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madness118&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![maddie's gitHub stats](https://github-readme-stats.vercel.app/api?username=madness118&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madness118)](https://github.com/anuraghazra/github-readme-stats)
