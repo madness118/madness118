@@ -6,10 +6,9 @@ i'm a secondary student who's interested in software developement.
 
 ### a little bit about me:
 
-* extremely new to programming and computer science
-* into game dev
-* trying to make a simple mobile game with my friend
-* i have a certified valorant addiction
+* learning python and c#
+* interest in computer science
+* attempting a range of projects
 
 <hr>
 
