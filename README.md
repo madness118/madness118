@@ -8,7 +8,7 @@ i'm a secondary student who's interested in software developement.
 
 * learning python and c#
 * interest in computer science
-* attempting a range of projects
+* currently working on a group project: Quantum Minigolf at HKUST
 
 <hr>
 
